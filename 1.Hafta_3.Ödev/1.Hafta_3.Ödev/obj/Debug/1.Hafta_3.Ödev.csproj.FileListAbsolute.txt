@@ -1,0 +1,7 @@
+C:\Users\06ahm\source\repos\1.Hafta_3.Ödev\1.Hafta_3.Ödev\bin\Debug\1.Hafta_3.Ödev.exe.config
+C:\Users\06ahm\source\repos\1.Hafta_3.Ödev\1.Hafta_3.Ödev\bin\Debug\1.Hafta_3.Ödev.exe
+C:\Users\06ahm\source\repos\1.Hafta_3.Ödev\1.Hafta_3.Ödev\bin\Debug\1.Hafta_3.Ödev.pdb
+C:\Users\06ahm\source\repos\1.Hafta_3.Ödev\1.Hafta_3.Ödev\obj\Debug\1.Hafta_3.Ödev.csprojAssemblyReference.cache
+C:\Users\06ahm\source\repos\1.Hafta_3.Ödev\1.Hafta_3.Ödev\obj\Debug\1.Hafta_3.Ödev.csproj.CoreCompileInputs.cache
+C:\Users\06ahm\source\repos\1.Hafta_3.Ödev\1.Hafta_3.Ödev\obj\Debug\1.Hafta_3.Ödev.exe
+C:\Users\06ahm\source\repos\1.Hafta_3.Ödev\1.Hafta_3.Ödev\obj\Debug\1.Hafta_3.Ödev.pdb
